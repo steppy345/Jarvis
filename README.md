@@ -22,8 +22,9 @@ How does it work
 
 Dependencies
 -----------
+On a Debian Wheezy 64-bit OS you can use the default apt-get package manager to install using the python-pip package name by entering the following command: "sudo apt-get install python-pip"
 
-Dependencies can be installed by running this [pip](https://pypi.python.org/pypi/pip) command `sudo pip install -r requirements.txt`
+Dependencies can be installed by running this [pip](https://pypi.python.org/pypi/pip) command `sudo pip install -r requirements.txt` 
 
 1. BeautifulSoup (version 4)
 2. [PyAIML](http://pyaiml.sourceforge.net/)
